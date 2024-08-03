@@ -28,3 +28,8 @@ Begins by comparing a finite population to an infinite population (shows increas
 Uses the Markov models to get the likelyhood of different percentages of mutant populations over time.
 Compares the markov model and multiple runs of the fisher wright models.
 Implements and shows the difference between markov and fisher wright models.
+
+# Concentration
+Shows how the concentration of difference substances can change over time.
+Uses arrows to show the direction of concentration change.
+This project is useful for estimating the stable state of a system containing many different substations with each having different conditions and rate of formations.

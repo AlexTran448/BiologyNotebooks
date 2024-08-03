@@ -22,4 +22,9 @@ Notebook also includes the veterbi algorithm, which is used to predict if the st
 Contains implementations standard veterbi to find the most likely states at each step and the soft output veterbi algorithm to get probabilities.
 This algorithm tends to struggle predicting when the states shift rapidly.
 
-## 
+## Fisher_Wright
+This notebook makes population simulations on how the population of mutants change over time.
+Begins by comparing a finite population to an infinite population (shows increasing the finite population increases the similarity to the infinite population).
+Uses the Markov models to get the likelyhood of different percentages of mutant populations over time.
+Compares the markov model and multiple runs of the fisher wright models.
+Implements and shows the difference between markov and fisher wright models.
